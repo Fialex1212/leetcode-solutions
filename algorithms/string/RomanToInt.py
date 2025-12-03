@@ -2,8 +2,6 @@
 # https://leetcode.com/problems/roman-to-integer/description/
 # Category: Hash Table, Math, String
 # Submitted: Dec 03, 2025 00:40
-# Time: O(n)
-# Space: O(n)
 
 
 class Solution:
